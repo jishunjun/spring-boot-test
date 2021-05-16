@@ -51,15 +51,6 @@ pipeline {
 
 
 
-http://192.168.225.134/generic-webhook-trigger/invoke?token=EZ5A3XYaJZiI6MRbogaY
-
-
-linux更新时间
-yum install -y ntpdate
-ntpdate 0.asia.pool.ntp.org
-
-
-
 
 
 
